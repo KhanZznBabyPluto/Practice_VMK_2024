@@ -34,8 +34,7 @@ brew install go
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com//a_star
-cd a_star
+git clone https://github.com/KhanZznBabyPluto/Practice_VMK_2024.git
 ```
 
 2. Инициализируйте модуль и установите зависимости:
@@ -52,7 +51,7 @@ go run main.go
 
 ## Структура проекта
 ```
-directoy/
+repository/
 ├── a_star/
 │   └── a_star.go    # Реализация алгоритма A*
 ├── main.go         # Визуализация с использованием Ebiten
